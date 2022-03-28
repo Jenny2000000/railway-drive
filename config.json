@@ -1,0 +1,459 @@
+{
+    "access_token": "ya29.A0ARrdaM8fRYgPLOZyOC6mAirnYNxJszW0TunMXjF8YDH1VP29htBG8MIIVOJ3C-1ioTKkNmWoOK_rR9kJN3quKunaXMtQBWQe5Lr3tnjWTY_EGBeEFk5XdyWaBpQAhrGsZL-1hYGPKGAP0jnfpf3fjlItTbULLHs",
+    "account_list": [
+        {
+            "auth": "gl14mc6a9ly4jyswalr943rkxdrp9f3ug1v5mw3rxqnb0kznpa",
+            "password": "3129",
+            "pic": "",
+            "username": "jenny"
+        },
+        {
+            "auth": "6csmth8pz4hso42uzg38btug550ofq7w9bheogow50p4d0b9kc",
+            "password": "123",
+            "pic": "",
+            "username": "Davide"
+        },
+        {
+            "auth": "m8cdzqdnnqcitixawagbymjxn28os4vq9ru78tq4yi6w7i22xq",
+            "password": "123",
+            "pic": "",
+            "username": "Stella"
+        },
+        {
+            "auth": "18cdzqdnnqcitixawagbymjxn28os4vq9ru78tq4yi6w7i22xq",
+            "password": "123",
+            "pic": "",
+            "username": "Alessia"
+        },
+        {
+            "auth": "ic6lpb4yp86xutmep131awcod3nd6q21e95giiv42e07ntll1k",
+            "password": "123",
+            "pic": "",
+            "username": "Gian"
+        },
+        {
+            "auth": "3gau1b7w75mj7s2zzyrd1vv63ymputc9qtpuojtjpp27pvkjrq",
+            "password": "123",
+            "pic": "",
+            "username": "Gennaro"
+        }
+    ],
+    "adult": "false",
+    "arcio": "dev",
+    "auth": true,
+    "build_interval": 360,
+    "build_type": "hybrid",
+    "category_list": [
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "18gZMGHbGjsPdXORkX9gS7w0VBJkvPNjL",
+            "language": "it",
+            "name": "Film",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1LSsy2swH03dmO_KQFCjDVMCONgBuc9aD",
+            "language": "it",
+            "name": "Serie tv",
+            "type": "TV Shows"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1GUN6qhlry0NFm8kkTZ9dLzKzz8u_otgK",
+            "language": "it",
+            "name": "Marvel Universe",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1kl2fF8M8X8z8hWvWBoUAe-QP_sF-8LHG",
+            "language": "it",
+            "name": "Fast & Furious",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1PaO785tx-rhS4odJBt7azZe-OvdD-V3j",
+            "language": "it",
+            "name": "Agente 007",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1Pizt_En2GXYbBtm2GWwhOPevb98L6wnH",
+            "language": "it",
+            "name": "Saw",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1zHrEEOzmPJxs8a71RCiIOSnkmiE2yk0G",
+            "language": "it",
+            "name": "Harry Potter",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1cv9xM6AJ5qn2mb0Gs049qmhTk1MlhIW5",
+            "language": "it",
+            "name": "Batman",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1o1k9iq_aLqKqyuxylC-4talckOHu6GOB",
+            "language": "it",
+            "name": "X-Men",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1z2WbnGzjBiWAqeYoxwZapXVIAoRnIVd4",
+            "language": "it",
+            "name": "Denzel Washington",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1JwLyWADJ9zawjcQD6RuOgoSJJ3bnvbum",
+            "language": "it",
+            "name": "Jason Statham",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "147sRhglm3m5pg6kD-ETHV_SVkjAAAa-O",
+            "language": "it",
+            "name": "Johnny Depp",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1VwO-0KXUx_NeoPmvQGDcPsSa34XCfqHP",
+            "language": "it",
+            "name": "Will Smith",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1UI6zcNdIKQboTrAHkzRb_jWPM4MsVGuH",
+            "language": "it",
+            "name": "Tom Cruise",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1yinuL8Oe7_yj4f1ud_JxcdVWDG8PJdlw",
+            "language": "it",
+            "name": "Sandra Bullock",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1dz0yGHQk_T6Px9bmEH5sz8uNTPXUDWEL",
+            "language": "it",
+            "name": "2022",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1eTYbnE9rCJUaZfVLrhQS9ic4epvdWZWp",
+            "language": "it",
+            "name": "2021",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1GasMmDm4VQKks4dsbWgozhkgD-jPLU4F",
+            "language": "it",
+            "name": "2020",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "15BUDU1WKJkA9BBMHGsmLDNeLCKXFFidP",
+            "language": "it",
+            "name": "2019",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1953-9mUPUGm2EZn59cXoG3KzwvrwYjLM",
+            "language": "it",
+            "name": "2018",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1aAKUciFF4szdpUikpoLnl4Bl3w5e756W",
+            "language": "it",
+            "name": "2017",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1ptfilzpzNks2lRBjXf4wpi16S9USF_NY",
+            "language": "it",
+            "name": "2016",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1eY3RF5cBv-TMx_24Jg0cz12ikVf8eIF5",
+            "language": "it",
+            "name": "2015",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1_OZSPfkckBZXGvo8M0tCIobzAkgWFnwa",
+            "language": "it",
+            "name": "2014",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1uCT7MgGZ4lvjqsjYmgj_khuHKBszinCf",
+            "language": "it",
+            "name": "2013",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1D8K-tFBc_pl0GqDGGIDauDiI0e04mqEo",
+            "language": "it",
+            "name": "2012",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1jiFIXZ7poG2H0MneBqyMS9oP3MsssZD0",
+            "language": "it",
+            "name": "2011",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1u-zFcNqXmx7x7GBezWzwmBxBOlHwJI0G",
+            "language": "it",
+            "name": "2010",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1b_u8WMpREIOUd4LtzCwmfcEzS9aw-ExU",
+            "language": "it",
+            "name": "2009",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1EluviYyuXWORLfgtHd5D0_cIyZibzy3F",
+            "language": "it",
+            "name": "2008",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1YxFg_4k5zUcHai7Qd4ed3QhWJt9YrzGX",
+            "language": "it",
+            "name": "2007",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1-TgkXh0WksqXrzS7G54BJaA6Ll0wp4I0",
+            "language": "it",
+            "name": "2006",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1ibL700jd1yO7m713XzvhT7m7or7pf8ML",
+            "language": "it",
+            "name": "2005",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1nn5gTJu1ijCqBmwqWbqEEmeN73LmF6mI",
+            "language": "it",
+            "name": "2004",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1dS5JFpP6822dLSmsQ_4KO6XjIh1g1Vq2",
+            "language": "it",
+            "name": "2003",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1Wta9NJhWcIRVxC2W5lu7Aav9To6x-3yD",
+            "language": "it",
+            "name": "2002",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1uGWRkEtyWNhdn_MZCJhSOXa5tKfphBQq",
+            "language": "it",
+            "name": "2001",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1zQQ_Jte3UvnSX6pMAjVq6t8ZT1EyD_JT",
+            "language": "it",
+            "name": "2000",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1OteKgRBl3p2oi3FdqHq3--CRgFzEG88i",
+            "language": "it",
+            "name": "1999",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1B_Kf3hiOgoo3XsLgM7ZEEoEz0oCdolt1",
+            "language": "it",
+            "name": "1998",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1fmlQNM2bq5jQWmWHpeZ4PWErXg82MUds",
+            "language": "it",
+            "name": "1997",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1gDep855gnOVzI4crVTTwfICX8Oo63qHF",
+            "language": "it",
+            "name": "1994",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1grQ2kOXBM-gK_RRvTH2EOR8qUq6cUgjD",
+            "language": "it",
+            "name": "1992",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1fVQkY9xlOghjatidpeKttTFqnfDxdQi4",
+            "language": "it",
+            "name": "1990",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "10hDJiG-rtzlTQoGuUy2XIjFFdRbTymZv",
+            "language": "it",
+            "name": "1986",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "11Rx1rbj48PJ3LyGZhXWytRFqgPuTdgEg",
+            "language": "it",
+            "name": "Marvel Series",
+            "type": "TV Shows"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1Xf0sVVQLgJgETZPv0eYLBS_1UT5opEny",
+            "language": "it",
+            "name": "HBO",
+            "type": "TV Shows"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1cmNK3dk5tTUURv0EwhrAaNd--BYflF32",
+            "language": "it",
+            "name": "Showtime",
+            "type": "TV Shows"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1eZUuVNz5SejsCYiCJQkex-UFMOTM2P07",
+            "language": "it",
+            "name": "Apple Tv",
+            "type": "TV Shows"
+        }
+    ],
+    "client_id": "303360340215-qemcv02ji4kisql1ug6o47eml1cue8b4.apps.googleusercontent.com",
+    "client_secret": "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",
+    "cloudflare": "https://videostreaming.jenny20.workers.dev",
+    "fetch_assets": "true",
+    "prefer_mkv": true,
+    "prefer_mp4": true,
+    "refresh_token": "1//09P2kx61-SqXdCgYIARAAGAkSNwF-L9IrsQxfxx2J621OK4XY1tatVgXEje6An_inT84OZJlbVBL0H0wx0Am3cHDek1t5Hf0AmHI",
+    "remove_duplicates": "false",
+    "remove_no_poster": "false",
+    "secret_key": "@jenny20",
+    "service_accounts": [],
+    "signup": "false",
+    "subtitles": false,
+    "tmdb_api_key": "4208ad7bcf591017d200b8b490f32303",
+    "token_expiry": "2022-03-20 19:41:43.035414",
+    "transcoded": "true",
+    "ui_config": {
+        "custom_button": {}
+    }
+}
